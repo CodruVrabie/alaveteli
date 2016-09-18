@@ -605,7 +605,7 @@ msgid "Awaiting classification."
 msgstr "Aşteaptă clasificarea."
 
 msgid "Awaiting internal review."
-msgstr "Aşteaptă revizuirea interna."
+msgstr "Aşteaptă verificarea interna."
 
 msgid "Awaiting response"
 msgstr "Așteaptă un răspuns."
@@ -762,7 +762,7 @@ msgid ""
 "Click on the link below to send a message to {{public_body_name}} telling "
 "them to reply to your request. You might like to ask for an internal review,"
 " asking them to find out why response to the request has been so slow."
-msgstr "Apasă pe link-ul de mai jos pentru a trimite un mesaj către {{public_body_name}} prin care să ceri un răspuns la solicitarea ta. Poți cere și o evaluare\\ninternă, pentru a afla de ce răspunsul la solicitare a ajuns atât de greu."
+msgstr "Apasă pe link-ul de mai jos pentru a trimite un mesaj către {{public_body_name}} prin care să ceri un răspuns la solicitarea ta. Poți cere și o verificare internă, pentru a afla de ce răspunsul la solicitare a ajuns atât de greu."
 
 msgid ""
 "Click on the link below to send a message to {{public_body}} reminding them "
@@ -1373,7 +1373,7 @@ msgid "I am asking for <strong>new information</strong>"
 msgstr "Solicit <strong>noi informaţii</strong>"
 
 msgid "I am requesting an <strong>internal review</strong>"
-msgstr "Soliciți  <strong> o verificare internă</strong>"
+msgstr "Soliciți <strong> o verificare internă</strong>"
 
 msgid ""
 "I am writing to request an internal review of {{public_body_name}}'s "
@@ -1690,7 +1690,7 @@ msgid "Internal review of {{email_subject}}"
 msgstr "Verificare internă a {{email_subject}}"
 
 msgid "Internal review request"
-msgstr "Solicitare revizie intrenă"
+msgstr "Solicitare de verificare internă"
 
 msgid ""
 "Internal review request sent to {{public_body_name}} by "
@@ -1981,7 +1981,7 @@ msgid "Now preview your follow up"
 msgstr "Acum previzualizează follow up-ul tău"
 
 msgid "Now preview your message asking for an internal review"
-msgstr "Acum previzualizează mesajul tău cerând o revizuire internă."
+msgstr "Acum previzualizează mesajul tău cerând o verificare internă."
 
 msgid "Number of requests"
 msgstr "Numărul de solicitări"
@@ -2250,7 +2250,7 @@ msgid "Please enter your password"
 msgstr "Te rugăm să îți introduci parola"
 
 msgid "Please give details explaining why you want a review"
-msgstr "Te rugăm să ne oferi detalii, explicând de ce dorești o revizuire."
+msgstr "Te rugăm să ne oferi detalii, explicând de ce dorești o verificare internă."
 
 msgid "Please keep it shorter than 500 characters"
 msgstr "Te rugăm să fie până la 500 de caractere"
@@ -2624,13 +2624,13 @@ msgid ""
 msgstr "Raportând o solicitare notificați administratorii site-ului. Aceștia vor răspunde cât mai curând posibil."
 
 msgid "Request an internal review"
-msgstr "Solicitați o verificare internă"
+msgstr "Solicită o verificare internă"
 
 msgid "Request an internal review from {{person_or_body}}"
-msgstr "Solicitați o evaluare internă de la {{person_or_body}}"
+msgstr "Solicită o verificare internă de la {{person_or_body}}"
 
 msgid "Request for personal information"
-msgstr "Solicitați informații personale"
+msgstr "Solicită informații personale"
 
 msgid "Request has been removed"
 msgstr "Solicitarea a fost ştearsă"
@@ -3050,7 +3050,7 @@ msgid ""
 msgstr "Aceasta nu pare a fi o adresa de email validă. Te rugăm să verifici dacă ai tastat corect."
 
 msgid "The <strong>review has finished</strong> and overall:"
-msgstr "<strong>Revizia s-a finalizat</strong> şi, per ansamblu:"
+msgstr "<strong>Verificarea internă s-a finalizat</strong> şi, per ansamblu:"
 
 msgid "The Freedom of Information Act <strong>does not apply</strong> to"
 msgstr "Legea liberului acces la informaţii <strong>nu se aplică</strong> la"
@@ -3943,12 +3943,12 @@ msgstr "Aşteaptă clarificare"
 msgid ""
 "Waiting for an <strong>internal review</strong> by {{public_body_link}} of "
 "their handling of this request."
-msgstr "Aşteaptă o <strong>revizuire internă</strong> a prelucrării acestei solicitări, de către {{public_body_link}}."
+msgstr "Aşteaptă o <strong>verificare internă</strong> a prelucrării acestei solicitări, de către {{public_body_link}}."
 
 msgid ""
 "Waiting for the public authority to complete an internal review of their "
 "handling of the request"
-msgstr "Aşteaptă o revizuire internă, din partea instituției, cu privire la prelucrarea acestei solicitări."
+msgstr "Aşteaptă o verificare internă, din partea instituției, cu privire la prelucrarea acestei solicitări."
 
 msgid "Waiting for the public authority to reply"
 msgstr "Aşteaptă răspunsul instituției publice"
@@ -4455,7 +4455,7 @@ msgid "Your follow up message has been sent on its way."
 msgstr "Mesajul tău de follow up a fost trimis unde trebuie."
 
 msgid "Your internal review request has been sent on its way."
-msgstr "Solicitarea ta de revizuire  internă a fost trimisă unde trebuie."
+msgstr "Solicitarea ta de verificare internă a fost trimisă unde trebuie."
 
 msgid ""
 "Your message has been sent. Thank you for getting in touch! We'll get back "
@@ -4689,7 +4689,7 @@ msgid "internal error"
 msgstr "eroare internă"
 
 msgid "internal reviews"
-msgstr "revizuire internă"
+msgstr "verificare internă"
 
 msgid "logged in as user {{user_name}}"
 msgstr "atutentificat ca {{user_name}}"
@@ -4730,7 +4730,7 @@ msgid "not requestable due to: {{reason}}"
 msgstr "nu poate fi solicitat pentru că: {{reason}}"
 
 msgid "requesting an internal review"
-msgstr "cerând o revizuire internă"
+msgstr "solicitând o verificare internă"
 
 msgid "requests"
 msgstr "solicitări"
