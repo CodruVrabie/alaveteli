@@ -136,7 +136,7 @@ msgid "(hide)"
 msgstr "(ascunde)"
 
 msgid "(or <a href=\"{{url}}\">sign in</a>)"
-msgstr "(sau o <a href=\"{{url}}\">logare</a>)"
+msgstr "(sau o <a href=\"{{url}}\">autentificare</a>)"
 
 msgid "(show)"
 msgstr "(afișează)"
@@ -835,10 +835,10 @@ msgid "Considered by administrators as vexatious and hidden from site."
 msgstr "Considerat de către administrator ca fiind ofensator şi şters de pe site."
 
 msgid "Contact us"
-msgstr "Contactați-ne"
+msgstr "Contact"
 
 msgid "Contact {{recipient}}"
-msgstr "Contactaţi {{recipient}}"
+msgstr "Contactează {{recipient}}"
 
 msgid "Contact {{site_name}}"
 msgstr "Contact {{site_name}}"
@@ -1449,12 +1449,12 @@ msgstr "Dacă mai ai probleme, te rugăm <a href=\"{{url}}\"> să ne contactezi<
 msgid ""
 "If you are the requester, then you may <a href=\"{{url}}\">sign in</a> to "
 "view the message."
-msgstr "Dacă tu ești solicitantul, atunci te poți <a href=\"{{url}}\">autentifica</a> pentru a vedea mesajul."
+msgstr "Dacă tu ești solicitantul, te poți <a href=\"{{url}}\">autentifica</a> pentru a vedea mesajul."
 
 msgid ""
 "If you are the requester, then you may <a href=\"{{url}}\">sign in</a> to "
 "view the request."
-msgstr "Dacă tu ești solicitantul, atunci trebuie să <a href=\"{{url}}\">te autentifici</a> pentru a vedea solicitarea."
+msgstr "Dacă tu ești solicitantul, te poți <a href=\"{{url}}\">autentifica</a> pentru a vedea solicitarea."
 
 msgid "If you are {{user_link}}, please"
 msgstr "Dacă tu ești {{user_link}}, te rugăm"
@@ -2002,7 +2002,7 @@ msgstr "Emailul vechi:"
 msgid ""
 "Old email address isn't the same as the address of the account you are "
 "logged in with"
-msgstr "Emailul vechi nu este acelaşi cu adresa contului în care sunteţi logat."
+msgstr "Emailul vechi nu este acelaşi cu adresa contului în care ești autentificat acum."
 
 msgid "Old email doesn't look like a valid address"
 msgstr "Email-ul vechi nu pare a fi o adresă validă"
@@ -2830,16 +2830,16 @@ msgid "Showing"
 msgstr "Afşare"
 
 msgid "Sign in"
-msgstr "Intrare in cont"
+msgstr "Intrare în cont"
 
 msgid "Sign in as the emergency user"
 msgstr "Autentifică-te cu utilizatorul de urgență"
 
 msgid "Sign in or make a new account"
-msgstr "Intrare in cont sau creare un cont nou"
+msgstr "Intră în contul tău sau creează-ți un cont nou"
 
 msgid "Sign in or sign up"
-msgstr "Intrare în cont sau ieșire din cont"
+msgstr "Intră în contul tău sau creează-ți un cont nou"
 
 msgid "Sign in to track this request"
 msgstr "Autentifică-te pentru a urmări această solicitare"
@@ -3426,12 +3426,12 @@ msgstr "Acest mesaj a fost ascuns. Există motive variate pentru care am făcut 
 msgid ""
 "This message has prominence 'hidden'. You can only see it because you are "
 "logged in as a super user."
-msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O puteți vedea doar pentru că sunteți autentificat ca super utilizator."
+msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O poți vedea doar pentru că ești autentificat ca super-utilizator."
 
 msgid ""
 "This message has prominence 'hidden'. {{reason}} You can only see it because"
 " you are logged in as a super user."
-msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O puteți vedea doar pentru că sunteți autentificat ca super utilizator."
+msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O poți vedea doar pentru că ești autentificat ca super-utilizator."
 
 msgid ""
 "This message is hidden, so that only you, the requester, can see it. Please "
@@ -3522,7 +3522,7 @@ msgstr "Această cerere are un raăspuns neobişnuit şi <strong> necesită  ate
 msgid ""
 "This request has prominence 'hidden'. You can only see it because you are "
 "logged in as a super user."
-msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O poţi vedea doar pentru că eşti autentificat \\n ca super user."
+msgstr "Această solicitare este evidenţiată ca \"ascunsă\". O poţi vedea doar pentru că eşti autentificat ca super-utilizator."
 
 msgid ""
 "This request is hidden, so that only you the requester can see it. Please <a"
@@ -3575,7 +3575,7 @@ msgstr "Pentru a anula această alertă"
 msgid ""
 "To carry on, you need to sign in or make an account. Unfortunately, there "
 "was a technical problem trying to do this."
-msgstr "Pentru a continua, trebuie să te autentifici sau să te înregistrezi. Din păcate, a fost\\no problemă tehnică în încercarea de a face acest lucru."
+msgstr "Pentru a continua, trebuie să te autentifici sau să te înregistrezi. Din păcate, o problemă tehnică ți-a oprit parcursul în site."
 
 msgid "To change your email address used on {{site_name}}"
 msgstr "Pentru a modifica adresa de email utilizată pe {{site_name}}"
@@ -3665,7 +3665,7 @@ msgstr "Pentru a actualiza starea acestei solicitări de acces la informații"
 msgid ""
 "To upload a response, you must be logged in using an email address from "
 "{{authority_name}}"
-msgstr "Pentru a încărca un răspuns trebuie să fiţi intrat în cont, folosind o adresă de email de la {{authority_name}}"
+msgstr "Pentru a încărca un răspuns, trebuie să fiţi autentificat folosind o adresă de email de la {{authority_name}}"
 
 msgid ""
 "To use the advanced search, combine phrases and labels as described in the "
@@ -3980,7 +3980,7 @@ msgid ""
 "We don't know whether the most recent response to this request contains "
 "information or not &ndash; if you are {{user_link}} please <a "
 "href=\"{{url}}\">sign in</a> and let everyone know."
-msgstr "Nu ştim dacă cel mai recent răspuns la această solicitare conţine\\ninformaţie sau nu\\n &ndash;\\n»dacă ştii{{user_link}} te rugăm<a href=\"{{url}}\">autentifică-te</a>şi permite accesul tuturor."
+msgstr "Nu ştim dacă cel mai recent răspuns la această solicitare conţine informaţie sau nu &ndash; dacă eşti {{user_link}}, te rugăm <a href=\"{{url}}\">să te autentifici</a> și să le permiți accesul tuturor utilizatorilor."
 
 msgid ""
 "We have <a href=\"{{other_means_url}}\">suggestions</a> on other means to "
@@ -4291,7 +4291,7 @@ msgid ""
 "You just tried to sign up to {{site_name}}, when you already have an "
 "account. Your name and password have been left as they previously were. "
 "Please click on the link below."
-msgstr "Tocmai ai încercat să te înregistrezi la {{site_name}}, când ai \\ndeja un cont. Numele şi parola ta au fost \\nlăsate aşa cum erau înainte.\\n\\nTe rugăm să accesezi link-ul de mai jos."
+msgstr "Tocmai ai încercat să te înregistrezi la {{site_name}}, deși ai deja un cont. Numele şi parola au rămas aşa cum erau înainte. Te rugăm să accesezi link-ul de mai jos."
 
 msgid ""
 "You know what caused the error, and can <strong>suggest a solution</strong>,"
@@ -4318,16 +4318,16 @@ msgid ""
 msgstr "S-ar putea sa găsești pe site-ul lor sau apelând telefonic. Dacă reușești să găsești te rugăm să ne notifici."
 
 msgid "You need to be logged in to change the text about you on your profile."
-msgstr "Trebuie să fii logat pentru a schimba textul referitor la profilul tău."
+msgstr "Trebuie să fii autentificat pentru a schimba textul referitor la profilul tău."
 
 msgid "You need to be logged in to change your profile photo."
-msgstr "Trebuie să fii logat pentru a schimba poza ta de profil."
+msgstr "Trebuie să fii autentificat pentru a-ți schimba poza de profil."
 
 msgid "You need to be logged in to clear your profile photo."
-msgstr "Trebuie să fii logat pentru a  şterge poza ta de profil."
+msgstr "Trebuie să fii autentificat pentru a-ți şterge poza de profil."
 
 msgid "You need to be logged in to edit your profile."
-msgstr "Trebuie să fii autentificat pentru a edita profilul"
+msgstr "Trebuie să fii autentificat pentru a-ți edita profilul."
 
 msgid ""
 "You need to be logged in to report a request for administrator attention"
@@ -4335,7 +4335,7 @@ msgstr "Trebuie să fii autentificat pentru a raporta o solicitare și a atrage 
 
 msgid ""
 "You previously submitted that exact follow up message for this request."
-msgstr "Aţi trimis anterior exact acelaşi mesaj de urmărire  pentru această cerere."
+msgstr "Anterior, ai trimis exact acelaşi mesaj de urmărire pentru această cerere."
 
 msgid ""
 "You should get a response within {{late_number_of_days}} days, or be told if"
@@ -4403,7 +4403,7 @@ msgstr "Vei primi un răspuns la solicitarea ta numai dacă revii\\ncu clarific�
 msgid ""
 "You will still be able to view it while logged in to the site. Please reply "
 "to this email if you would like to discuss this decision further."
-msgstr "Vei putea să vezi în continuare dacă vei fi autentificat în site. Te rog să răspunzi dacă vrei să discuți în continuare."
+msgstr "Vei putea să vezi în continuare, și dacă vei fi autentificat în site. Te rugăm să ne răspunzi dacă vrei să continuăm discuția pe acest subiect."
 
 msgid "You're in. <a href=\"#\" id=\"send-request\">Continue sending your request</a>"
 msgstr "Ești autentificat.<a href=\"#\" id=\"send-request\">Continuă pentru transmiterea solicitării tale</a>"
@@ -4753,7 +4753,7 @@ msgid "show quoted sections"
 msgstr "arată secţiunile citate"
 
 msgid "sign in"
-msgstr "conectare"
+msgstr "autentificare"
 
 msgid "simple_date_format"
 msgstr "simple_date_format"
@@ -4899,7 +4899,7 @@ msgid "{{reason}}, create an account or sign in"
 msgstr "{{reason}}, te rugăm să te autentifici sau să te înregistrezi."
 
 msgid "{{reason}}, please sign in as {{user_name}}."
-msgstr "{{reason}}, te rugăm să te înscrii ca {{user_name}}."
+msgstr "{{reason}}, te rugăm să te autentifici ca {{user_name}}."
 
 msgid ""
 "{{reason}}. Unfortunately we don't know the FOI email address for that "
