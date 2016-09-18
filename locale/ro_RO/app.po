@@ -421,7 +421,7 @@ msgid "About you:"
 msgstr "Despre tine:"
 
 msgid "Act on what you've learnt"
-msgstr "Actţonează conform cu ceea ce ai învăţat."
+msgstr "Acţionează conform cu ceea ce ai învăţat."
 
 msgid "Acts as xapian/acts as xapian job"
 msgstr "Funcționează pe post de xpian/funcționează ca un proces de xpian"
@@ -653,7 +653,7 @@ msgid "Browse requests"
 msgstr "Vezi cereri"
 
 msgid "By law, they have to respond."
-msgstr "în conformitate cu legea, sunt obligați să răspundă."
+msgstr "Conform legii, instituțiile sunt obligate să-ți răspundă."
 
 msgid ""
 "By law, under all circumstances, {{public_body_link}} should have responded "
@@ -1287,13 +1287,13 @@ msgid ""
 "Hello! We have an <a href=\"{{url}}\">important message</a> for visitors in "
 "other countries. You can also make Freedom of Information requests to EU "
 "institutions at {{link_to_asktheeu}}"
-msgstr "Bună! Avem un <a href=\"{{url}}\">mesaj important</a> pentru vizitatorii din alte țări. Puteți face solicitări de acces la infromații către instituții din Uniunea Europeană la {{link_to_asktheeu}}"
+msgstr "Bună! Avem un <a href=\"{{url}}\">mesaj important</a> pentru vizitatorii din alte țări. Puteți face solicitări de acces la informații către instituții din Uniunea Europeană la {{link_to_asktheeu}}"
 
 msgid ""
 "Hello! We have an <a href=\"{{url}}\">important message</a> for visitors "
 "outside {{country_name}}. You can also make Freedom of Information requests "
 "to EU institutions at {{link_to_asktheeu}}"
-msgstr "Bună! Avem un <a href=\"{{url}}\">mesaj important</a> pentru vizitatorii care nu locuiesc în {{country_name}}. Puteți face solicitări de acces la infromații către instituții din Uniunea Europeană la {{link_to_asktheeu}}"
+msgstr "Bună! Avem un <a href=\"{{url}}\">mesaj important</a> pentru vizitatorii care nu locuiesc în {{country_name}}. Puteți face solicitări de acces la informații către instituții din Uniunea Europeană la {{link_to_asktheeu}}"
 
 msgid ""
 "Hello! You can make Freedom of Information requests within {{country_name}} "
@@ -1303,7 +1303,7 @@ msgstr "Hello! Puteţi face cereri  \"Libertatea de informare\" în  {{country_n
 msgid ""
 "Hello! You can make Freedom of Information requests within {{country_name}} "
 "at {{link_to_website}} and to EU institutions at {{link_to_asktheeu}}"
-msgstr "Bună! Poți face solicitări de acces la infromații din {{country_name}} la adresa {{link_to_website}} și către instituții din Uniunea Europeană la adresa {{link_to_asktheeu}}"
+msgstr "Bună! Poți face solicitări de acces la informații din {{country_name}} la adresa {{link_to_website}} și către instituții din Uniunea Europeană la adresa {{link_to_asktheeu}}"
 
 msgid "Hello, {{username}}!"
 msgstr "Hello, {{username}}!"
@@ -2630,7 +2630,7 @@ msgid "Request an internal review from {{person_or_body}}"
 msgstr "Solicitați o evaluare internă de la {{person_or_body}}"
 
 msgid "Request for personal information"
-msgstr "Solicitați infromații personale"
+msgstr "Solicitați informații personale"
 
 msgid "Request has been removed"
 msgstr "Solicitarea a fost ştearsă"
@@ -2685,7 +2685,7 @@ msgid "Respond to request"
 msgstr "Răspuns la cerere"
 
 msgid "Respond to the FOI request '{{request}}' made by {{user}}"
-msgstr "Răspundeți la solicitarea de acces la infromații '{{request}}' trimisă de {{user}}"
+msgstr "Răspundeți la solicitarea de acces la informații '{{request}}' trimisă de {{user}}"
 
 msgid "Respond using the web"
 msgstr "Răspuns utilizând Internetul"
@@ -2736,7 +2736,7 @@ msgid "Search contributions by this person"
 msgstr "Caută contribuţii de la această persoană"
 
 msgid "Search for the authorities you'd like information from:"
-msgstr "Căutați instituții publice de la care doriți infromații:"
+msgstr "Căutați instituții publice de la care doriți informații:"
 
 msgid "Search in"
 msgstr "Caută în"
@@ -3094,7 +3094,7 @@ msgid ""
 msgstr "Clasificarea solicitării (de exemplu dacă a fost cu succes sau nu) se face manual de către utilizatori și de administratorii site-ului, ceea ce înseamnă că sunt supuse erorilor."
 
 msgid "The contact email address for FOI requests to the authority."
-msgstr "Adresa de contact pentru solicitări de access la infromații către instituția publică."
+msgstr "Adresa de contact pentru solicitări de access la informații către instituția publică."
 
 msgid ""
 "The email that you, on behalf of {{public_body}}, sent to {{user}} to reply "
@@ -3725,7 +3725,7 @@ msgstr "Plasează pe Tweet acestă cerere"
 msgid ""
 "Two factor authentication adds extra security to your account by requiring "
 "more information to reset your password."
-msgstr "Autentificarea în doi pași adaugă măsuri de securitate în plus contului deroarece solicită mai multe infromații pentru a reseta parola."
+msgstr "Autentificarea în doi pași adaugă măsuri de securitate în plus contului deroarece solicită mai multe informații pentru a reseta parola."
 
 msgid "Two factor authentication could not be disabled"
 msgstr "Autentificarea în doi pași nu a putut fi dezactivată"
@@ -3819,7 +3819,7 @@ msgstr "Utilizaţi ghilimele când doriţi să găsiţi o frază exactă, de exe
 
 msgid ""
 "Use this site to make your request for information – we'll show you how."
-msgstr "Folosiți acest site pentru a trimite solicitări de access la infromații - vă vom arăta cum."
+msgstr "Folosiți acest site pentru a trimite solicitări de access la informații - vă vom arăta cum."
 
 msgid "User"
 msgstr "Utilizator"
@@ -4285,7 +4285,7 @@ msgid ""
 "You have the <strong>right</strong> to request information from any "
 "publicly-funded body, and get answers. {{site_name}} helps you make a "
 "Freedom of Information request. It also publishes all requests online."
-msgstr "Ai <strong>dreptul</strong> să soliciți informații și să primeși răspuns de la orice instituție finanțată public. {{site_name}} te ajută să faci solicitări de acces la informații și le publică online."
+msgstr "Ai <strong>dreptul</strong> să soliciți informații și să primești răspuns de la orice instituție finanțată din bani publici. {{site_name}} te ajută să faci solicitări de acces la informații și publică online atât întrebările, cât și răspunsurile, în beneficiul altor utilizatori."
 
 msgid ""
 "You just tried to sign up to {{site_name}}, when you already have an "
