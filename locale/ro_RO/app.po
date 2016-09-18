@@ -517,7 +517,7 @@ msgid "An <strong>error message</strong> has been received"
 msgstr "Un <strong>mesaj de eroare </strong> a fost primit"
 
 msgid "An Environmental Information request"
-msgstr "O solicitare de informații cu privire la mediu"
+msgstr "O solicitare de informații cu privire la mediu (EIR)"
 
 msgid "An anonymous user"
 msgstr "Utilizator anonim"
@@ -875,7 +875,7 @@ msgstr "Decupează poza ta de profil"
 msgid ""
 "Cultural sites and built structures (as they may be affected by the "
 "environmental factors listed above)"
-msgstr "Situri culturale şi structuri construite (pentru că ar putea fi afectate de\\nfactorii de mediu listaţi mai sus)"
+msgstr "Situri culturale şi structuri construite (pentru că ar putea fi afectate de factorii de mediu listaţi mai sus)"
 
 msgid ""
 "Currently <strong>waiting for a response</strong> from {{public_body_link}},"
@@ -962,7 +962,7 @@ msgid "Download original attachment"
 msgstr "Descarcă ataşamentul inițial"
 
 msgid "EIR"
-msgstr "EIR"
+msgstr "reglementări privind accesul la informații de(spre) mediu"
 
 msgid "Edit"
 msgstr "Editare"
@@ -1009,13 +1009,13 @@ msgid ""
 msgstr "Introdu mai jos răspunsul tău. Poți atașa un fișier (folosește email-ul sau <a href=\"{{url}}\">contactează-ne</a> dacă vrei să atașezi mai multe)."
 
 msgid "Environmental Information Regulations"
-msgstr "Reglementări privind Informaţiile de Mediu"
+msgstr "Reglementări privind Informaţiile de Mediu (EIR)"
 
 msgid "Environmental Information Regulations requests made"
-msgstr "Solicitare Informaţii de Mediu efectuată"
+msgstr "Solicitare privind Informaţii de Mediu efectuată"
 
 msgid "Environmental Information Regulations requests made using this site"
-msgstr "Solicitare Informaţii de Mediu făcută utilizând acest site"
+msgstr "Solicitare privind Informaţii de Mediu făcută utilizând acest site"
 
 msgid "Event history"
 msgstr "Istoric evenimente"
@@ -1361,7 +1361,7 @@ msgstr "Cum funcționează"
 msgid ""
 "However, you have the right to request environmental information under a "
 "different law"
-msgstr "Cu toate acestea, ai dreptul de a solicita informaţii privind mediul, în baza unei alte legi"
+msgstr "Cu toate acestea, ai dreptul de a solicita informaţii privind mediul, în baza altor legi (EIR)"
 
 msgid "Human health and safety"
 msgstr "Sănătate şi asigurări"
@@ -3620,7 +3620,7 @@ msgid ""
 "{{law_used_full}} request {{title}} that you made to {{public_body}}, to "
 "\"{{display_status}}\" If you disagree with their categorisation, please "
 "update the status again yourself to what you believe to be more accurate."
-msgstr "Pentru a ne ajuta să ţinem site-ul curat, altcineva a actualizat statusul \\n{{law_used_full}}solicitării{{title}} pe care ai făcut-o către {{public_body}}, în \"{{display_status}}\". Dacă nu eşti de acord cu această categorisire, te rugăm să actualizezi statusul din nou  în ceea ce consideri că este mai potrivit."
+msgstr "Pentru a ne ajuta să ţinem site-ul curat, altcineva a actualizat statusul {{law_used_full}}solicitării{{title}} pe care ai făcut-o către {{public_body}}, în \"{{display_status}}\". Dacă nu eşti de acord cu această categorisire, te rugăm să actualizezi statusul din nou  în ceea ce consideri că este mai potrivit."
 
 msgid ""
 "To let everyone know, follow this link and then select the appropriate box."
@@ -4253,7 +4253,7 @@ msgstr "Poţi obţine această pagină într-un format computer-readable ca part
 
 msgid ""
 "You can only request information about the environment from this authority."
-msgstr "Poţi solicita doar informaţii despre mediu din partea acestei instituții."
+msgstr "Poţi solicita doar informaţii despre mediu (EIR) din partea acestei instituții."
 
 msgid "You can regenerate your one time passcode at any time."
 msgstr "Poți genera oricând un nou cod OTP (parolă de unică folosință)."
