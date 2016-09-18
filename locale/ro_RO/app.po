@@ -1812,31 +1812,31 @@ msgid "MailServerLog|Order"
 msgstr "MailServerLog|Order"
 
 msgid "Make a batch request"
-msgstr "Crează un grup de solicitări"
+msgstr "Creează un grup de solicitări"
 
 msgid "Make a new EIR request"
-msgstr "Crează o nouă solicitare EIR"
+msgstr "Creează o nouă solicitare EIR"
 
 msgid "Make a new FOI request"
-msgstr "Crează o nouă solicitare de informații"
+msgstr "Creează o nouă solicitare de informații"
 
 msgid "Make a request"
-msgstr "Crează o solicitare"
+msgstr "Creează o solicitare"
 
 msgid "Make a request &raquo;"
-msgstr "Crează o solicitare &raquo;"
+msgstr "Creează o solicitare &raquo;"
 
 msgid "Make a request to these authorities"
-msgstr "Crează o solicitare acestor autorități"
+msgstr "Creează o solicitare acestor autorități"
 
 msgid "Make a request to this authority"
-msgstr "Crează o solicitare acestei autorități"
+msgstr "Creează o solicitare acestei autorități"
 
 msgid "Make an {{law_used_short}} request"
-msgstr "Crează o solicitare {{law_used_short}}"
+msgstr "Creează o solicitare {{law_used_short}}"
 
 msgid "Make an {{law_used_short}} request to '{{public_body_name}}'"
-msgstr "Faceţi o nouă solicitare {{law_used_short}} către '{{public_body_name}}'"
+msgstr "Creează o nouă solicitare {{law_used_short}} către '{{public_body_name}}'"
 
 msgid "Make and browse Freedom of Information (FOI) requests"
 msgstr "Faceţi şi vizualizaţi solicitări de acces la informații"
@@ -2047,7 +2047,7 @@ msgstr "Doar combinația corectă din confirmarea contului tău printrun cod ema
 msgid ""
 "Or make a <a href=\"{{url}}\">batch request</a> to <strong>multiple "
 "authorities</strong> at once."
-msgstr "Sau crează un <a href=\"{{url}}\">grup de solicitări</a> către <strong>mai multe autorități</strong> în același timp"
+msgstr "Sau creează un <a href=\"{{url}}\">grup de solicitări</a> către <strong>mai multe autorități</strong> în același timp"
 
 msgid "Original request sent"
 msgstr "Solicitarea originală trimisă"
@@ -3229,7 +3229,7 @@ msgid "Then you can log into the administrative interface"
 msgstr "Apoi vă puteţi conecta la interfaţa administrativă"
 
 msgid "Then you can make a batch request"
-msgstr "Crează un grup de solicitări"
+msgstr "Creează un grup de solicitări"
 
 msgid "Then you can play the request categorisation game."
 msgstr "Apoi puteţi să jucaţi jocul de categorisire  a cererii."
