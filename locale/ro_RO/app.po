@@ -265,7 +265,7 @@ msgid ""
 "e.g. <code>tag:openlylocal AND tag:financial_transaction:335633</code>. Note"
 " that by default any of the tags can be present, you have to put "
 "<code>AND</code> explicitly if you only want results them all present."
-msgstr "<strong><code>etichetă:organizații</code></strong> pentru a găsi toate entitățile și solicitările cu o anumită etichetă. Poți include etichete multiple și/sau etichete cu valori, cum ar fi <code>etichetă:deschislocal AND etichetă:tranzacții_financiare:335633</code>. Ia în calcul că, deși orice etichetă poate exista din oficiu, trebuie să scrii <code>AND</code> explicit, dacă vrei doar rezultatele care au etichetele dorite de tine."
+msgstr "<strong><code>etichetă:organizații</code></strong> pentru a găsi toate entitățile și solicitările cu o anumită etichetă. Poți include etichete multiple și/sau etichete cu valori, cum ar fi <code>etichetă:deschislocal ȘI etichetă:tranzacții_financiare:335633</code>. Ia în calcul că, deși orice etichetă poate exista din oficiu, trebuie să scrii <code>ȘI</code> explicit, dacă vrei doar rezultatele care au etichetele dorite de tine."
 
 msgid ""
 "<strong><code>variety:</code></strong> to select type of thing to search "
@@ -3810,7 +3810,7 @@ msgstr "Încarcă răspuns la solicitare"
 msgid ""
 "Use OR (in capital letters) where you don't mind which word,  e.g. "
 "<strong><code>commons OR lords</code></strong>"
-msgstr "Folosește OR (cu litere mari) când contează oricare dintre cuvinte, de exemplu <strong><code>miniștri OR parlamentari</code></strong>"
+msgstr "Folosește SAU (cu litere mari) când contează oricare dintre cuvinte, de exemplu <strong><code>miniștri SAU parlamentari</code></strong>"
 
 msgid ""
 "Use quotes when you want to find an exact phrase, e.g. "
@@ -4552,7 +4552,7 @@ msgstr "Instituțiile selecționate de tine"
 msgid ""
 "Your thoughts on what the {{site_name}} <strong>administrators</strong> "
 "should do about the request."
-msgstr "Consideraţiile tale cu privire la ceea ce ar trebui să facă <strong>administratorii</strong> {{site_name}} în legătură cu solicitarea."
+msgstr "Ce crezi c-ar trebui să facă <strong>administratorii</strong> {{site_name}} în legătură cu solicitarea."
 
 msgid "Your {{count}} Freedom of Information request"
 msgid_plural "Your {{count}} Freedom of Information requests"
@@ -4597,12 +4597,12 @@ msgid "[{{public_body}} request email]"
 msgstr "[{{public_body}} email solicitare]"
 
 msgid "[{{site_name}} contact email]"
-msgstr "[{{site_name}}  email contact]"
+msgstr "[{{site_name}} email contact]"
 
 msgid ""
 "\\n\\n[ {{site_name}} note: The above text was badly encoded, and has had "
 "strange characters removed. ]"
-msgstr "\\n\\n[ Notă de la {{site_name}}: Textul de mai sus apare să fi fost codat greșit, așa încât caracterele ciudate au fost eliminate. ]"
+msgstr "\\n\\n[ Notă de la {{site_name}}: Textul de mai sus pare să fi fost codat greșit, așa încât caracterele ciudate au fost eliminate. ]"
 
 msgid "admin"
 msgstr "administrator"
@@ -4729,6 +4729,15 @@ msgstr "nu ești autentificat"
 msgid "not requestable due to: {{reason}}"
 msgstr "nu poate fi solicitat pentru că: {{reason}}"
 
+msgid "or"
+msgstr "sau"
+
+msgid "overdue"
+msgstr "depășit"
+
+msgid "Overdue."
+msgstr "Depășit."
+
 msgid "requesting an internal review"
 msgstr "cerând o verificare internă"
 
@@ -4747,7 +4756,7 @@ msgstr "timite o intervenție"
 msgid ""
 "set to <strong>blank</strong> (empty string) if can't find an address; these"
 " emails are <strong>public</strong> as anyone can view with a CAPTCHA"
-msgstr "setat pe <strong>blank/gol</strong> (empty string) dacă nu poate găsi o adresă; aceste emailuri sunt <strong>publice</strong>, pentru că oricine le poate vizualiza prin introducerea CAPTCHA"
+msgstr "setat pe <strong>blank/gol</strong> (<em>empty string</em>) dacă nu poate găsi o adresă; aceste emailuri sunt <strong>publice</strong>, pentru că oricine le poate vizualiza prin introducerea CAPTCHA"
 
 msgid "show quoted sections"
 msgstr "arată secţiunile citate"
@@ -4779,7 +4788,7 @@ msgid "the {{site_name}} team"
 msgstr "echipa {{site_name}}"
 
 msgid "to send a follow up message."
-msgstr "a transmite o intervenție"
+msgstr "a transmite o intervenție."
 
 msgid "to {{public_body}}"
 msgstr "către {{public_body}}"
@@ -4794,7 +4803,7 @@ msgid "unknown reason "
 msgstr "motiv necunoscut"
 
 msgid "unknown status {{status}}"
-msgstr "stare necunocută {{status}}"
+msgstr "stare necunoscută {{status}}"
 
 msgid "unresolved requests"
 msgstr "solicitări nesoluţionate"
@@ -4852,16 +4861,16 @@ msgid ""
 "{{existing_request_user}} already created the same request on {{date}}. You "
 "can either view the <a href=\"{{existing_request}}\">existing request</a>, "
 "or edit the details below to make a new but similar request."
-msgstr "{{existing_request_user}} a creat deja aceeași solicitare la data de {{date}}. Poți fie vizualiza <a href=\"{{existing_request}}\"> solicitarea existentă </a>, fie edita detaliile de mai jos pentru a face o solicitare nouă, similară."
+msgstr "{{existing_request_user}} a creat deja aceeași solicitare la data de {{date}}. Poți fie vizualiza <a href=\"{{existing_request}}\">solicitarea existentă</a>, fie edita detaliile de mai jos pentru a face o solicitare nouă, similară."
 
 msgid "{{foi_law}} requests to '{{public_body_name}}'"
 msgstr "solicitare bazată pe {{foi_law}} către '{{public_body_name}}'"
 
 msgid "{{info_request_user_name}} only:"
-msgstr "numai {{info_request_user_name}} :"
+msgstr "numai {{info_request_user_name}}:"
 
 msgid "{{law_used_full}} request - {{title}}"
-msgstr "solicitare bazată pe {{law_used_full}}  - {{title}}"
+msgstr "solicitare bazată pe {{law_used_full}} - {{title}}"
 
 msgid "{{law_used}} requests at {{public_body}}"
 msgstr "solicitări bazate pe {{law_used}} către {{public_body}}"
@@ -4883,20 +4892,20 @@ msgid ""
 "to a particular message, rather than sending a general followup. If you need"
 " to make a general followup, and know an email which will go to the right "
 "place, please <a href=\"{{url}}\">send it to us</a>."
-msgstr "Instituția {{public_body_name}} nu mai există. De pe pagina solicitării, încearcă să răspunzi la un mesaj specific, în loc să trimiți un mesaj general. Dacă ai nevoie să trimiți un mesaj general și cunoști o nouă adresă de email, te rugăm să <a href=\"{{url}}\">ne-o trimiți</a> și nouă."
+msgstr "Instituția {{public_body_name}} nu mai există. De pe pagina solicitării, încearcă să răspunzi la un mesaj specific, în loc să trimiți o intervenție generală. Dacă ai nevoie să trimiți o intervenție generală și cunoști o nouă adresă de email, te rugăm să <a href=\"{{url}}\">ne-o trimiți</a> și nouă."
 
 msgid "{{public_body_name}} only:"
 msgstr "numai {{public_body_name}} :"
 
 msgid ""
 "{{public_body}} has asked you to explain part of your {{law_used}} request."
-msgstr "{{public_body}} ți-a cerut să explici o parte a solicitării tale bazate pe {{law_used}} "
+msgstr "{{public_body}} ți-a cerut să explici o parte a solicitării tale bazate pe {{law_used}}."
 
 msgid "{{public_body}} sent a response to {{user_name}}"
 msgstr "{{public_body}} trimite un răspuns către {{user_name}}"
 
 msgid "{{reason}}, create an account or sign in"
-msgstr "{{reason}}, te rugăm să te autentifici sau să te înregistrezi."
+msgstr "{{reason}}, te rugăm să te autentifici sau să te înregistrezi"
 
 msgid "{{reason}}, please sign in as {{user_name}}."
 msgstr "{{reason}}, te rugăm să te autentifici ca {{user_name}}."
@@ -4908,7 +4917,7 @@ msgid ""
 msgstr "{{reason}}. Din păcate, nu ştim adresa de email pentru solicitări de acces la informaţii pentru această instituție, deci nu putem valida această solicitare. Te rugăm <a href=\"{{url}}\">să ne contactezi</a> pentru a vedea cum putem rezolva situaţia."
 
 msgid "{{search_results}} matching '{{query}}'"
-msgstr "{{search_results}} corespunzătoare '{{query}}'"
+msgstr "{{search_results}} corespunzând cu '{{query}}'"
 
 msgid "{{site_name}} blog and tweets"
 msgstr "{{site_name}} blog şi tweets"
@@ -4925,7 +4934,7 @@ msgstr "{{site_name}} trimite noi solicitări către <strong>{{request_email}}</
 
 msgid ""
 "{{site_name}} users have made {{number_of_requests}} requests, including:"
-msgstr "utilizatorii {{site_name}}  au făcut  {{number_of_requests}} solicitări, inclusiv:"
+msgstr "utilizatorii {{site_name}} au făcut {{number_of_requests}} solicitări, inclusiv:"
 
 msgid ""
 "{{thing_changed}} was changed from <code>{{from_value}}</code> to "
@@ -4936,7 +4945,7 @@ msgid "{{title}} - a Freedom of Information request to {{public_body}}"
 msgstr "{{title}} - o solicitare de acces la informații către {{public_body}}"
 
 msgid "{{title}} - a batch request"
-msgstr "{{title}} - grup de solicitări"
+msgstr "{{title}} - un grup de solicitări"
 
 msgid "{{user_name}} (Account suspended)"
 msgstr "{{user_name}} (Cont suspendat)"
@@ -4965,7 +4974,7 @@ msgid ""
 msgstr "{{user_name}} a raportat că un răspuns privind {{law_used}} are nevoie de atenția administratorului. Aruncă o privire și răspunde la acest email cu detalii despre ce vei face în legătură cu asta."
 
 msgid "{{user_name}} has used {{site_name}} to send you the message below."
-msgstr "{{user_name}} a utilizat  {{site_name}} pentru a-ți trimite mesajul de mai jos"
+msgstr "{{user_name}} a utilizat {{site_name}} pentru a-ți trimite mesajul de mai jos."
 
 msgid "{{user_name}} left an annotation ({{date}})"
 msgstr "{{user_name}} a lăsat o adnotare ({{date}})"
@@ -4991,10 +5000,10 @@ msgid ""
 "{{user}} ({{user_admin_link}}) made this {{law_used_full}} request (<a "
 "href=\"{{request_admin_url}}\">admin</a>) to {{public_body_link}} (<a "
 "href=\"{{public_body_admin_url}}\">admin</a>)"
-msgstr "{{user}} ({{user_admin_link}}) a făcut această solicitare bazată pe {{law_used_full}}  (<a href=\"{{request_admin_url}}\">administrator </a>) către {{public_body_link}} (<a href=\"{{public_body_admin_url}}\">admin</a>)"
+msgstr "{{user}} ({{user_admin_link}}) a făcut această solicitare bazată pe {{law_used_full}} (<a href=\"{{request_admin_url}}\">administrator</a>) către {{public_body_link}} (<a href=\"{{public_body_admin_url}}\">administrator</a>)"
 
 msgid "{{user}} made this {{law_used_full}} request"
-msgstr "{{user}} a făcut această solicitare bazată pe {{law_used_full}} "
+msgstr "{{user}} a făcut această solicitare bazată pe {{law_used_full}}"
 
 msgid "« Back to search results"
 msgstr "« Înapoi la rezultatele căutării"
