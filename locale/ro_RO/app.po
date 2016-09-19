@@ -251,7 +251,7 @@ msgstr "<strong><code>solicitat_de:julian_todd</code></strong> pentru a căuta s
 msgid ""
 "<strong><code>requested_from:home_office</code></strong> to search requests "
 "from the Home Office, typing the name as in the URL."
-msgstr "<strong><code>solicitat_de:home_office</code></strong> pentru a căuta prin solicitările făcute către Ministerul Magiei, tastează numele aşa cum apare în URL."
+msgstr "<strong><code>solicitat_de:home_office</code></strong> pentru a căuta printre solicitările făcute către Ministerul Magiei, tastează numele aşa cum apare în URL."
 
 msgid ""
 "<strong><code>status:</code></strong> to select based on the status or "
@@ -270,7 +270,7 @@ msgstr "<strong><code>etichetă:fundații</code></strong> pentru a găsi toate i
 msgid ""
 "<strong><code>variety:</code></strong> to select type of thing to search "
 "for, see the <a href=\"{{varieties_url}}\">table of varieties</a> below."
-msgstr "<strong><code>variety:</code></strong> pentru a selecta tipul obiectului căutat, vedeţi <a href=\"{{varieties_url}}\">tabelul cu tipurile</a> below."
+msgstr "<strong><code>variety:</code></strong> pentru a selecta tipul obiectului căutat, vezi <a href=\"{{varieties_url}}\">tabelul cu tipurile</a> below."
 
 msgid ""
 "<strong>Advice</strong> on how to get a response that will satisfy the "
@@ -1140,7 +1140,7 @@ msgid "Follow these requests"
 msgstr "Urmărește aceste solicitări"
 
 msgid "Follow things matching this search"
-msgstr "Urmărește chestiuni relevante pentru această căutare"
+msgstr "Urmărește chestiuni relevante pentru această interogare"
 
 msgid "Follow this link to see the request:"
 msgstr "Urmărește acest link pentru a vedea solicitarea:"
@@ -1208,7 +1208,7 @@ msgid "Freedom of Information"
 msgstr "Libertatea de Informare"
 
 msgid "Freedom of Information Act"
-msgstr "Legea 544/2001 privind liberul acces la informații"
+msgstr "Legea 544/2001 privind liberul acces la informații de interes public"
 
 msgid ""
 "Freedom of Information law does not apply to this authority, so you cannot "
@@ -1785,10 +1785,10 @@ msgid "Log into the admin interface"
 msgstr "Conectare la interfaţa de administrare"
 
 msgid "Long overdue"
-msgstr "Așteptat de mult timp"
+msgstr "Termen depășit de mult timp"
 
 msgid "Long overdue."
-msgstr "Aşteptat de mult timp"
+msgstr "Termen depășit de mult timp"
 
 msgid "Made between"
 msgstr "Făcut între"
@@ -2508,7 +2508,7 @@ msgid "PublicBody|Info requests not held count"
 msgstr "InstituțiePublică|Numărul solicitărilor nedeținute"
 
 msgid "PublicBody|Info requests overdue count"
-msgstr "InstituțiePublică|Numărul solicitărilor cu termen depășit"
+msgstr "InstituțiePublică|Numărul solicitărilor cu termen de răspuns depășit"
 
 msgid "PublicBody|Info requests successful count"
 msgstr "InstituțiePublică|Numărul solicitărilor soluționate cu succes"
@@ -2559,10 +2559,10 @@ msgid "PurgeRequest|Url"
 msgstr "EliminareSolicitare|Url"
 
 msgid "Query can't be blank"
-msgstr "Căutarea nu poate fi în orb"
+msgstr "Interogarea nu poate fi în orb"
 
 msgid "Query is too long"
-msgstr "Căutarea este prea lungă"
+msgstr "Interogarea este prea lungă"
 
 msgid "RSS feed"
 msgstr "RSS feed"
@@ -2654,7 +2654,7 @@ msgstr "Solicitată la data {{date}}"
 msgid ""
 "Requests are considered overdue if they are in the 'Overdue' or 'Very "
 "Overdue' states."
-msgstr "Solicitările sunt considerate depășite (adică termenul legal de răspuns a fost depășit de către instituție), dacă au statusul „Depășit” sau „Foarte depășit”."
+msgstr "Solicitările sunt considerate depășite (adică termenul legal de răspuns a fost depășit de către instituție), dacă au statusul „Depășit” sau „Mult depășit”."
 
 msgid ""
 "Requests are considered successful if they were classified as either "
@@ -2667,7 +2667,7 @@ msgid ""
 msgstr "Solicitările de informații personale și solicitările ofensatoare nu sunt considerate valide pentru scopurile solicitărilor de acces la informații (<a href=\"/help/about\">citește mai multe</a>)."
 
 msgid "Requests or responses matching your saved search"
-msgstr "Solicitări sau răspunsuri care se potrivesc cu căutarea ta"
+msgstr "Solicitări sau răspunsuri care se potrivesc cu interogarea ta"
 
 msgid "Requests similar to '{{request_title}}'"
 msgstr "Solicitări similare cu '{{request_title}}'"
@@ -2706,7 +2706,7 @@ msgid "Response to this request is <strong>delayed</strong>."
 msgstr "Răspunsul la această solicitare este <strong>amânat</strong>."
 
 msgid "Response to this request is <strong>long overdue</strong>."
-msgstr "Răspunsul la această solicitare este <strong>mult peste termen</strong>."
+msgstr "Răspunsul la această solicitare este <strong>mult dincolo de termenul legal</strong>."
 
 msgid "Response to your request"
 msgstr "Răspuns la solicitarea ta"
@@ -2925,7 +2925,7 @@ msgid "Subject:"
 msgstr "Subiect:"
 
 msgid "Submit Search"
-msgstr "Trimite căutarea"
+msgstr "Trimite interogarea"
 
 msgid "Submit request"
 msgstr "Trimite solicitarea"
@@ -3188,17 +3188,17 @@ msgid ""
 "The response to your request is <strong>long overdue</strong>. You can say "
 "that, by law, under all circumstances, the authority should have responded "
 "by now"
-msgstr "Răspunsul la solicitarea ta este <strong>mult întârziat</strong>. Poţi spune că, potrivit legii, indiferent de circumstanţe, instituția ar fi trebuit să răspundă până acum"
+msgstr "Răspunsul la solicitarea ta <strong>a depășit termenul legal</strong>. Poţi spune că, potrivit legii, indiferent de circumstanţe, instituția ar fi trebuit să răspundă până acum"
 
 msgid ""
 "The search index is currently offline, so we can't show the Freedom of "
 "Information requests that have been made to this authority."
-msgstr "Acest index de căutare este în acest moment offline, aşa că nu putem afişa solicitările de acces la informații făcute către această instituție."
+msgstr "Indexul de căutare este în acest moment offline, aşa că nu putem afişa solicitările de acces la informații făcute către această instituție."
 
 msgid ""
 "The search index is currently offline, so we can't show the Freedom of "
 "Information requests this person has made."
-msgstr "Acest index de căutare este în acest moment offline, aşa că nu putem afişa solicitările de acces la informații pe care această persoană le-a făcut."
+msgstr "Indexul de căutare este în acest moment offline, aşa că nu putem afişa solicitările de acces la informații pe care această persoană le-a făcut."
 
 msgid "The widget will look like this:"
 msgstr "Widget-ul va arăta așa:"
@@ -3670,7 +3670,7 @@ msgstr "Pentru a încărca un răspuns, trebuie să fii autentificat folosind o 
 msgid ""
 "To use the advanced search, combine phrases and labels as described in the "
 "search tips below."
-msgstr "Pentru a utiliza căutarea avansată, poți combina fraze şi etichete, după cum este descris în trucurile de căutare de mai jos"
+msgstr "Pentru a utiliza căutarea avansată, poți combina fraze şi etichete, după cum este descris în ponturile pentru căutare, mai jos."
 
 msgid ""
 "To view the email address that we use to send FOI requests to "
@@ -3702,7 +3702,7 @@ msgid "Track this person"
 msgstr "Urmăreşte această persoană"
 
 msgid "Track this search"
-msgstr "Urmăreşte această căutare"
+msgstr "Urmăreşte această interogare"
 
 msgid "TrackThing|Track medium"
 msgstr "TrackThing|Track medium"
@@ -3769,7 +3769,7 @@ msgid "Unclassified or hidden requests are not counted."
 msgstr "Solicitările neclasificate sau ascunse nu sunt numărate"
 
 msgid "Unexpected search result type {{result_type}}"
-msgstr "Tip de rezultat neaşteptat provenit din căutare {{result_type}}"
+msgstr "Tip de rezultat neaşteptat provenit din interogare {{result_type}}"
 
 msgid ""
 "Unfortunately, we do not have a working address for {{public_body_names}}."
@@ -4164,7 +4164,7 @@ msgid "You are already subscribed to '{{link_to_user}}', a person."
 msgstr "Te-ai abonat deja la utilizatorul '{{link_to_user}}'."
 
 msgid "You are already subscribed to <a href=\"{{search_url}}\">this search</a>."
-msgstr "Te-ai abonat deja la <a href=\"{{search_url}}\">această căutare</a>."
+msgstr "Te-ai abonat deja la <a href=\"{{search_url}}\">această interogare</a>."
 
 msgid ""
 "You are already subscribed to any <a href=\"{{new_requests_url}}\">new "
@@ -4200,7 +4200,7 @@ msgid ""
 msgstr "Nu mai ești abonat la <a href=\"{{new_requests_url}}\">solicitările noi</a>."
 
 msgid "You are no longer following <a href=\"{{search_url}}\">this search</a>."
-msgstr "Nu mai urmărești <a href=\"{{search_url}}\">această căutare</a>."
+msgstr "Nu mai urmărești <a href=\"{{search_url}}\">această interogare</a>."
 
 msgid ""
 "You are no longer following <a "
@@ -4383,7 +4383,7 @@ msgstr "De acum, vei primi actualizări pe email legate de utilizatorul '{{link_
 msgid ""
 "You will now be emailed updates about <a href=\"{{search_url}}\">this "
 "search</a>."
-msgstr "De acum, vei primi actualizări pe email legate de <a href=\"{{search_url}}\">această căutare</a>."
+msgstr "De acum, vei primi actualizări pe email legate de <a href=\"{{search_url}}\">această interogare</a>."
 
 msgid ""
 "You will now be emailed updates about <a "
@@ -4409,7 +4409,7 @@ msgid "You're in. <a href=\"#\" id=\"send-request\">Continue sending your reques
 msgstr "Ești autentificat. <a href=\"#\" id=\"send-request\">Continuă cu transmiterea solicitării tale</a>"
 
 msgid "You're long overdue a response to your FOI request - {{request_title}}"
-msgstr "A fost depășit de mult termenul de răspuns la solicitarea de acces la informații - {{request_title}}"
+msgstr "A fost depășit de mult termenul de răspuns la solicitarea ta de acces la informații - {{request_title}}"
 
 msgid "You're not following anything."
 msgstr "Nu urmărești nimic."
@@ -4773,7 +4773,7 @@ msgstr "principala adresă de contact pentru {{public_body}}"
 #. Send a public reply to...
 #. Don't want to address your message to... ?
 msgid "the main FOI contact at {{public_body}}"
-msgstr "principalul contact privind Legea 544 de la {{public_body}}"
+msgstr "principalul contact privind Legea 544/2001 de la {{public_body}}"
 
 msgid "the {{site_name}} team"
 msgstr "echipa {{site_name}}"
