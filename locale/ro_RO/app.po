@@ -287,7 +287,7 @@ msgstr "<strong>Orice altceva</strong>, cum ar fi: clarificări, precizări, mul
 msgid ""
 "<strong>By law, they have to respond</strong> (<a "
 "href=\"{{url}}\">why?</a>)."
-msgstr "<strong>Conform legii, instituțiile sunt obligate să răspundă</strong>. (<a href=\"{{url}}\">De ce?</a>)."
+msgstr "<strong>Conform Legii 544/2001 privind liberul acces la informațiile de interes public, instituțiile sunt obligate să-ți răspundă</strong>. (<a href=\"{{url}}\">De ce?</a>)."
 
 msgid ""
 "<strong>Can I request information about myself?</strong> <a "
