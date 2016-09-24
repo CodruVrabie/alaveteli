@@ -1390,7 +1390,7 @@ msgid "I like this request"
 msgstr "Îmi place această solicitare"
 
 msgid "I would like to <strong>withdraw this request</strong>"
-msgstr "Aș dori să <strong>retrag</strong>această solicitare"
+msgstr "Aș dori să <strong>retrag</strong> această solicitare"
 
 msgid ""
 "I'm still <strong>waiting</strong> for my information <small>(maybe you got "
